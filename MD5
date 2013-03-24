@@ -1,9 +1,9 @@
-43f873cdd032cbdb5395f48e22a17d73 *DESCRIPTION
+ff34ecabfcda8e743d1672f7f71f54ac *DESCRIPTION
 cc80b0796be8c284390805e784430f01 *NAMESPACE
-8e426b7bb9fba745726d33b5e41d47d4 *R/changeAnomalyDetection.R
+4eeab6dbcbe85732de879c8bb06a7833 *R/changeAnomalyDetection.R
 050a2f1fa3a4296a4006e0ae7a506b72 *R/outlierScore.R
 8b7f777b2989cd274e8ef8d09d0e9f50 *R/scoreSmoothing.R
-4abf32a4ad1680493ff9420c7752e6ec *man/ChangeAnomalyDetection-package.Rd
-f75d41e347b1bfacbcf2f5056af02067 *man/changeAnomalyDetection.Rd
+726e50c79388794d87cff330e109a872 *man/ChangeAnomalyDetection-package.Rd
+7f1df43660146d751e9264bdb7bf9ba7 *man/changeAnomalyDetection.Rd
 7327b92a9cddc14f18ff50ec5c57241f *man/outlierScore.Rd
 56af7c07117b6e20d614f4d971364998 *man/scoreSmoothing.Rd

@@ -12,9 +12,9 @@ It is a R package for the detection of the point of a sharp turn of the behavior
 \tabular{ll}{
 Package: \tab ChangeAnomalyDetection\cr
 Type: \tab Package\cr
-Version: \tab 0.0.1\cr
-Date: \tab 2012-09-29\cr
-License: \tab What license is it under?\cr
+Version: \tab 0.1.0\cr
+Date: \tab 2013-03-24\cr
+License: \tab BSD\cr
 }
 }
 \author{
